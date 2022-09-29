@@ -1,0 +1,13 @@
+{
+  "token": "OTIwNTg1MjgzMzU4MDQ4MjY2.Ybmf2w.CdatX03FvnjUtr--z_byae8sgpQ",
+  "prefix": ".",
+  "defaultCommandCooldown" : 1,
+  "emoji": {
+    "play": "▶️",
+    "stop": "⏹️",
+    "queue": "📄",
+    "success": "☑️",
+    "repeat": "🔁",
+    "error": "❌"
+}
+}

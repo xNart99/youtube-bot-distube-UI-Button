@@ -1,0 +1,10 @@
+{
+  "color": "#3498db",
+  "wrongcolor": "#e01e01",
+  "footertext": "Bối Music BOT",
+  "footericon": "https://cdn.discordapp.com/icons/724211606485205045/a_128d6fb30121ccf32f668b2ac48ec709.webp?size=96",
+  "colors": {
+    "accepted" : "#ddcc33",
+    "decline"  : "#ff4d4d"
+  }
+}
